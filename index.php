@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <HTML>
 <head>
+<<<<<<< HEAD
 uuuuuuuuuu
+=======
+blbla
+>>>>>>> acc29db3cb1f60ee8930cb6c7213f4e7e8b9ec50
 	<?php include "extension/head.php"; ?>
 	<title>	Birauto - Accueil </title> <!-- Titre de l'onglet -->
 	<link rel="stylesheet"  type="text/css" href="css/index.css"> <!-- Lien entre cette page et le fichier CSS indiqué -->
