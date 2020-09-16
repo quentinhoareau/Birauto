@@ -8,7 +8,7 @@
 
 
 <body>
-azazazaz
+
 
 <!-- BARRE DE NAVIGATION + BANNIERE -->
 	<?php include "extension/nav.php" ?>
