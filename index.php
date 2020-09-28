@@ -8,7 +8,7 @@
 
 
 <body>
-
+<!-- test -->
 
 <!-- BARRE DE NAVIGATION + BANNIERE -->
 	<?php include "extension/nav.php" ?>
