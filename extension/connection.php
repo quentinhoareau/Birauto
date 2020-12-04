@@ -3,7 +3,7 @@
 $databaseHost 		= '127.0.0.1';
 $databaseName 		= 'birauto';
 $databaseUsername 	= 'root';
-$databasePassword 	= '';
+$databasePassword 	= 'root';
 
 try {
 	// http://php.net/manual/en/pdo.connections.php
